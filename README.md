@@ -10,7 +10,12 @@ Welcome to 33_days_of_Machine_Learning, a personal journey of rediscovering and 
 
 ## Daily Details 
 
-### Day 1: Linear Regression
+### Day 1 and 2: Linear Regression
+- **Day 1 Progress**:
+    - Revised the basics of linear regression and its mathematical formulation.
+    - Looked into the Closed From Solution for Linear Regression.
+    - Explored Singular Value Decomposition and how it is used in Closed Form Solution.
+
 
 
 
